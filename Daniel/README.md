@@ -21,4 +21,13 @@
     $x = \cos^3\theta;y=\sin^3\theta$
     > _El símbolo de la Universidad Escuela Colombiana de Ingeniería Julio Garavito es una ecuación matemática expresada en una figura geométrica que corresponde a una reconocida curva de la geometría analítica: la hipocicloide astroide._ [1][1]
 
+## :white_check_mark: Curso Git Branching
+
+Evidencia del curso realizado en [Learn Git Branching](https://learngitbranching.js.org/?locale=es_AR)
+
+    ![GitPrincipal](https://github.com/An6ie02/CVDS-LAB1/blob/main/Images/GitPrincipal.png)\
+    ![GitRemote](https://github.com/An6ie02/CVDS-LAB1/blob/main/Images/GitRemoto.png)\
+    ![PropietiesPrincipal](https://github.com/An6ie02/CVDS-LAB1/blob/main/Images/PropietiesGitPrincipal.png)\
+    ![PropietiesRemote](https://github.com/An6ie02/CVDS-LAB1/blob/main/Images/PropietiesGitRemoto.png)
+
 [1]:https://www.escuelaing.edu.co/es/la-escuela/simbolos-institucionales-de-la-escuela-colombiana-de-ingenieria-julio-garavito/ "Simbolo Institucional"

@@ -1,0 +1,9 @@
+¿Las dos parejaslo pudieron hacer?,¿Qué quedó al final en la versión oficial?
+
+Al hacer push, solo el primer integrante que ejecutó el comando logro agregar los cambios realizados, pero al segundo integrante no se le permitió
+Esto porque la versión que tenía local es diferente a la remota por los cambios recién enviados
+
+
+¿Qué diferencia hay ahora en el historial de cambios en el repositorio?
+
+Se encuentra el log de los commits realizados en el repositorio ademas de que se presenta una interfaz grafica para visualizar que commits se han hecho
